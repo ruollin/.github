@@ -24,6 +24,8 @@
 
 ### 我的小窝
 
+### [QQ 群](https://qm.qq.com/q/ctv32lV2Vy)
+
 ### [Ruollin's Blog](https://ruollin.github.io)
 
 ### 主要开发语言 | Primary Programming Language
