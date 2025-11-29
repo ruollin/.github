@@ -26,6 +26,8 @@
 
 ### [QQ 群](https://qm.qq.com/q/ctv32lV2Vy)
 
+### [QQ 频道](https://pd.qq.com/s/dez4zzx69?b=9)
+
 ### [Ruollin's Blog](https://ruollin.github.io)
 
 ### 主要开发语言 | Primary Programming Language
