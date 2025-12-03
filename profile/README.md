@@ -16,6 +16,9 @@
 - 🧝‍ 我的 MBTI 类型是 架构师 INTJ-A，擅长制定计划并高效率的执行。  
 *My MBTI type is Architect INTJ-A, good at making plans and executing them efficiently....*
 
+- 💻 MiraiCL 的主要开发者。
+*One of the maintainers of MiraiCL.*
+
 - 📰 我的主语言是简体中文（zh-CN），同时可以阅读繁体中文和英文，但是后者可能无法做到流畅阅读。  
 *My primary language is Simplified Chinese (zh-CN), and I can read Traditional Chinese and English, but I may not be able to read the latter fluently.*
 
